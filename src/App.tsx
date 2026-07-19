@@ -5,7 +5,7 @@ import Hello from './components/Hello';
 const App: React.FC = () => {
     return (
         <div className="App">
-            <Hello />
+            <Hello World />
         </div>
     );
 }
