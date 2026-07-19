@@ -5,7 +5,7 @@ import Hello from './components/Hello';
 const App: React.FC = () => {
     return (
         <div className="App">
-            <Hello World2/>
+            <Hello World2 commit/>
         </div>
     );
 }
